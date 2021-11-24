@@ -1,0 +1,48 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "86373a6c-9603-bcb5-5577-f535e38290c3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Dynamic Programming and Stochastic Control",
+  "course_description": "The course covers the basic models and solution techniques for problems of sequential decision making under uncertainty (stochastic control). We will consider optimal control of a dynamical system over both a finite and an infinite number of stages. This includes systems with finite or infinite state spaces, as well as perfectly or imperfectly observed systems. We will also discuss approximation methods for problems involving large state spaces. Applications of dynamic programming in a variety of fields will be covered in recitations.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.231",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Other Video",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
